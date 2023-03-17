@@ -30,8 +30,8 @@
 
     <div class="">
       <arcgis-hub-search 
-        id="arcgis-hub-search-harness"
-        site-url="hifld-geoplatform.opendata.arcgis.com"
+        id="arcgis-hub-search"
+        site-url="opendata.dc.gov"
         map-update="true"
       >
       </arcgis-hub-search>
@@ -41,7 +41,7 @@
   <script>
     // set a property on the element
     function setProp(key, value) {
-      const el = document.querySelector("arcgis-hub-search-harness");
+      const el = document.querySelector("arcgis-hub-search");
       el[key] = value;
     }
   </script>
