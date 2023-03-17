@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Baixa",
+  "buttonOptions": "Opcions de baixada",
+  "menuRequest": "Sol·licita un fitxer nou",
+  "menuDownload": "Baixa el fitxer disponible",
+  "fileCreated": "S'ha creat el fitxer",
+  "fileSize": "Mida del fitxer",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "N/A"
+}

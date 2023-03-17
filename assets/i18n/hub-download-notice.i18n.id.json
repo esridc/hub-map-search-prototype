@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Unduhan selesai",
+  "titleFileGeneration": "Pembuatan file sedang dalam proses",
+  "titleFileGenerationFailed": "Pembuatan file gagal",
+  "titleDatasetNotFound": "Kumpulan data tidak ditemukan",
+  "titleApiError": "Kesalahan API",
+  "messageFailedStaleAvailable": "Anda dapat mengunduh versi sebelumnya di bawah.",
+  "messageUpdatingFile": "Kami sedang memperbarui file. Prosesnya mungkin perlu waktu.",
+  "messageCreatingFile": "Kami membuat file. Prosesnya mungkin perlu waktu.",
+  "messageCachedOutOfDate": "File tidak berisi data yang mutakhir.",
+  "messageCachedUnknownDate": "File mungkin tidak berisi data yang mutakhir.",
+  "messageNotCached": "File tidak ada dan akan memerlukan waktu untuk dibuat."
+}

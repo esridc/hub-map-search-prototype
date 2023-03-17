@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "下载完成",
+  "titleFileGeneration": "正在生成文件",
+  "titleFileGenerationFailed": "文件生成失败",
+  "titleDatasetNotFound": "未找到数据集",
+  "titleApiError": "API 错误",
+  "messageFailedStaleAvailable": "可以下载以下之前的版本。",
+  "messageUpdatingFile": "我们正在更新文件。 此过程可能需要花费一些时间。",
+  "messageCreatingFile": "我们正在创建文件。 此过程可能需要花费一些时间。",
+  "messageCachedOutOfDate": "文件不包含最新数据。",
+  "messageCachedUnknownDate": "文件可能不包含最新数据。",
+  "messageNotCached": "文件不存在，将需要花费一些时间来创建该文件。"
+}

@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "اكتمل التنزيل",
+  "titleFileGeneration": "إنشاء الملف قيد التقدم",
+  "titleFileGenerationFailed": "فشل إنشاء الملف",
+  "titleDatasetNotFound": "لم يتم العثور على مجموعة البيانات",
+  "titleApiError": "خطأ في API",
+  "messageFailedStaleAvailable": "يمكنك تنزيل إصدار سابق أدناه.",
+  "messageUpdatingFile": "نقوم بتحديث الملف. قد يستغرق ذلك بعض الوقت.",
+  "messageCreatingFile": "نحن ننُشئ الملف. قد يستغرق ذلك بعض الوقت.",
+  "messageCachedOutOfDate": "لا يحتوي الملف على أحدث بيانات.",
+  "messageCachedUnknownDate": "قد لا يحتوي الملف على أحدث بيانات.",
+  "messageNotCached": "الملف غير موجود وسيستغرق وقتًا لإنشائه."
+}

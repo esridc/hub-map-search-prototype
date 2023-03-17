@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Baixada completa",
+  "titleFileGeneration": "Generació de fitxers en curs",
+  "titleFileGenerationFailed": "S'ha produït un error en generar els fitxers",
+  "titleDatasetNotFound": "No s'ha trobat el dataset",
+  "titleApiError": "Error de l'API",
+  "messageFailedStaleAvailable": "Podeu baixar una versió anterior a continuació.",
+  "messageUpdatingFile": "S'està actualitzant el fitxer. Pot tardar una estona.",
+  "messageCreatingFile": "S'està creant el fitxer. Pot tardar una estona.",
+  "messageCachedOutOfDate": "El fitxer no conté les dades de data més actualitzades.",
+  "messageCachedUnknownDate": "És possible que el fitxer no contingui les dades de data més actualitzades.",
+  "messageNotCached": "El fitxer no existeix i trigarà una estona a crear-se."
+}

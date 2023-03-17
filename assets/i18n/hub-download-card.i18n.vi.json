@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Tải xuống",
+  "buttonOptions": "Tùy chọn Tải xuống",
+  "menuRequest": "Yêu cầu một tệp mới",
+  "menuDownload": "Tải xuống tệp có sẵn",
+  "fileCreated": "Đã tạo tệp",
+  "fileSize": "Kích cỡ tệp",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "Không có"
+}

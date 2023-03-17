@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "下載完成",
+  "titleFileGeneration": "正在產生檔案",
+  "titleFileGenerationFailed": "無法產生檔案",
+  "titleDatasetNotFound": "找不到資料集",
+  "titleApiError": "API 錯誤",
+  "messageFailedStaleAvailable": "您可以下載下方的舊版本。",
+  "messageUpdatingFile": "我們正在更新檔案。 此操作可能需要一些時間。",
+  "messageCreatingFile": "我們正在建立檔案。 此操作可能需要一些時間。",
+  "messageCachedOutOfDate": "檔案不含最新資料。",
+  "messageCachedUnknownDate": "檔案可能不含最新資料。",
+  "messageNotCached": "檔案不存在並將耗費一些時間才能建立。"
+}

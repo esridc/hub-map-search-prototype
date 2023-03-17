@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "تنزيل",
+  "buttonOptions": "خيارات التنزيل",
+  "menuRequest": "طلب ملف جديد",
+  "menuDownload": "تنزيل الملف المتاح",
+  "fileCreated": "تم إنشاء الملف",
+  "fileSize": "حجم الملف",
+  "bytes": "ب",
+  "kb": "كيلو بايت",
+  "mb": "ميغابايت",
+  "gb": "غيغابايت",
+  "tb": "TB",
+  "n/a": "غير متوفر"
+}

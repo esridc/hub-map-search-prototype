@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Yükle",
+  "buttonOptions": "İndirme Seçenekleri",
+  "menuRequest": "Yeni bir dosya talep edin",
+  "menuDownload": "Mevcut dosyayı indir",
+  "fileCreated": "Dosya oluşturuldu",
+  "fileSize": "Dosya boyutu",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "Kullanılmıyor"
+}

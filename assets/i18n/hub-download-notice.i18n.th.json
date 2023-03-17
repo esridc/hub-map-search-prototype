@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "การดาวน์โหลดสมบูรณ์",
+  "titleFileGeneration": "อยู่ระหว่างการสร้างไฟล์",
+  "titleFileGenerationFailed": "การสร้างไฟล์ล้มเหลว",
+  "titleDatasetNotFound": "ไม่พบชุดข้อมูล",
+  "titleApiError": "ข้อผิดพลาด API",
+  "messageFailedStaleAvailable": "คุณสามารถดาวน์โหลดเวอร์ชันก่อนหน้าได้จากด้านล่าง",
+  "messageUpdatingFile": "เรากำลังอัปเดตไฟล์ ซึ่งอาจต้องใช้เวลาสักพัก",
+  "messageCreatingFile": "เรากำลังสร้างไฟล์ ซึ่งอาจต้องใช้เวลาสักพัก",
+  "messageCachedOutOfDate": "ไฟล์นี้ไม่มีข้อมูลล่าสุด",
+  "messageCachedUnknownDate": "ไฟล์อาจไม่มีข้อมูลล่าสุด",
+  "messageNotCached": "ไม่มีไฟล์อยู่ และอาจต้องใช้เวลาในการสร้าง"
+}

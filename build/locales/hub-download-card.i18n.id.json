@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Unduh",
+  "buttonOptions": "Opsi Unduhan",
+  "menuRequest": "Minta file baru",
+  "menuDownload": "Unduh file yang tersedia",
+  "fileCreated": "File yang dibuat",
+  "fileSize": "Ukuran file",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "T/A"
+}

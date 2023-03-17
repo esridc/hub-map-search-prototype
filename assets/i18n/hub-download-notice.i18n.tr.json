@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "İndirme tamamlandı",
+  "titleFileGeneration": "Dosya üretimi devam ediyor",
+  "titleFileGenerationFailed": "Dosya üretimi başarısız oldu",
+  "titleDatasetNotFound": "Veri kümesi bulunamadı",
+  "titleApiError": "API hatası",
+  "messageFailedStaleAvailable": "Aşağıdaki önceki versiyonu indirebilirsiniz.",
+  "messageUpdatingFile": "Dosyayı güncelliyoruz. Bu işlem biraz uzun sürebilir.",
+  "messageCreatingFile": "Dosyayı oluşturuyoruz. Bu işlem biraz uzun sürebilir.",
+  "messageCachedOutOfDate": "Dosya en güncel verileri içermiyor.",
+  "messageCachedUnknownDate": "Dosya en güncel verileri içermiyor olabilir.",
+  "messageNotCached": "Dosya yok ve oluşturmak zaman alacak."
+}

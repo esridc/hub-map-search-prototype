@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Λήψη",
+  "buttonOptions": "Επιλογές Λήψης",
+  "menuRequest": "Αίτημα για νέο αρχείο",
+  "menuDownload": "Λήψη διαθέσιμου αρχείου",
+  "fileCreated": "Επιτυχής δημιουργία αρχείου",
+  "fileSize": "Μέγεθος αρχείου",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "Δ/Υ"
+}

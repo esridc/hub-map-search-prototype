@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Arkivér",
+  "buttonOptions": "Download-indstillinger",
+  "menuRequest": "Anmod om en ny fil",
+  "menuDownload": "Download tilgængelig fil",
+  "fileCreated": "Fil oprettet",
+  "fileSize": "Filstørrelse",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "I/T"
+}

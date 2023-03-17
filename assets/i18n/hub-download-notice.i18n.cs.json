@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Stahování dokončeno",
+  "titleFileGeneration": "Probíhá generování souboru",
+  "titleFileGenerationFailed": "Nepodařilo se vygenerovat soubor",
+  "titleDatasetNotFound": "Datová sada nebyla nalezena",
+  "titleApiError": "Chyba API",
+  "messageFailedStaleAvailable": "Níže si můžete stáhnout předchozí verzi.",
+  "messageUpdatingFile": "Aktualizujeme soubor. To může nějakou dobu trvat.",
+  "messageCreatingFile": "Vytváříme soubor. To může nějakou dobu trvat.",
+  "messageCachedOutOfDate": "Soubor neobsahuje nejaktuálnější data.",
+  "messageCachedUnknownDate": "Soubor nemusí obsahovat nejaktuálnější data.",
+  "messageNotCached": "Soubor neexistuje a jeho vytvoření bude nějakou dobu trvat."
+}

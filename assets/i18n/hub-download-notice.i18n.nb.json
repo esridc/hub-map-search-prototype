@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Nedlasting fullført",
+  "titleFileGeneration": "Filgenerering pågår",
+  "titleFileGenerationFailed": "Filgenerering mislyktes",
+  "titleDatasetNotFound": "Finner ikke datasett",
+  "titleApiError": "API-feil",
+  "messageFailedStaleAvailable": "Du kan laste ned en tidligere versjon nedenfor.",
+  "messageUpdatingFile": "Vi oppdaterer filen. Det kan ta litt tid.",
+  "messageCreatingFile": "Vi oppretter filen. Det kan ta litt tid.",
+  "messageCachedOutOfDate": "Filen inneholder ikke de sist oppdaterte dataene.",
+  "messageCachedUnknownDate": "Filen inneholder kanskje ikke de sist oppdaterte dataene.",
+  "messageNotCached": "Filen finnes ikke, og det vil ta tid å opprette den."
+}

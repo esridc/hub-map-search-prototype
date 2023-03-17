@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Transferência concluída",
+  "titleFileGeneration": "Geração de ficheiro em curso",
+  "titleFileGenerationFailed": "Falha ao gerar ficheiro",
+  "titleDatasetNotFound": "Conjunto de dados não encontrado",
+  "titleApiError": "Erro de API",
+  "messageFailedStaleAvailable": "Pode transferir uma versão anterior abaixo.",
+  "messageUpdatingFile": "Estamos a atualizar o ficheiro. Isto poderá demorar algum tempo.",
+  "messageCreatingFile": "Estamos a criar o ficheiro. Isto poderá demorar algum tempo.",
+  "messageCachedOutOfDate": "O ficheiro não contém os dados mais recentes.",
+  "messageCachedUnknownDate": "O ficheiro pode não conter os dados mais recentes.",
+  "messageNotCached": "O ficheiro não existe e a sua criação irá demorar algum tempo."
+}

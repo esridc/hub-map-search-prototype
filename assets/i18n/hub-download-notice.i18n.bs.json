@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Preuzimanje gotovo",
+  "titleFileGeneration": "Generiranje datoteke u tijeku",
+  "titleFileGenerationFailed": "Generiranje datoteke nije uspjelo",
+  "titleDatasetNotFound": "Skup podataka nije pronađen",
+  "titleApiError": "API pogreška",
+  "messageFailedStaleAvailable": "Prethodnu verziju možete preuzeti u nastavku.",
+  "messageUpdatingFile": "Datoteka se ažurira. To može potrajati neko vrijeme.",
+  "messageCreatingFile": "Datoteka se stvara. To može potrajati neko vrijeme.",
+  "messageCachedOutOfDate": "Datoteka ne sadrži najnovije podatke.",
+  "messageCachedUnknownDate": "Datoteka možda ne sadrži najnovije podatke.",
+  "messageNotCached": "Datoteka ne postoji i trebat će vremena da se stvori."
+}

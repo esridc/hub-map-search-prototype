@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "A letöltés befejeződött",
+  "titleFileGeneration": "Fájl létrehozása folyamatban",
+  "titleFileGenerationFailed": "Fájl létrehozása sikertelen",
+  "titleDatasetNotFound": "Az adatkészlet nem található",
+  "titleApiError": "API hiba",
+  "messageFailedStaleAvailable": "Alább letöltheti az előző verziót.",
+  "messageUpdatingFile": "A fájl frissítése folyamatban. Ez eltarthat egy ideig.",
+  "messageCreatingFile": "A fájl létrehozása folyamatban. Ez eltarthat egy ideig.",
+  "messageCachedOutOfDate": "A fájl nem tartalmazza a legfrissebb adatokat.",
+  "messageCachedUnknownDate": "A fájl esetleg nem tartalmazza a legfrissebb adatokat.",
+  "messageNotCached": "A fájl nem létezik, létrehozása eltarthat egy ideig.."
+}

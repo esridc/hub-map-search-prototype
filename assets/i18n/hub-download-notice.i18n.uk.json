@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Завантаження завершено",
+  "titleFileGeneration": "Триває створення файлу",
+  "titleFileGenerationFailed": "Не вдалося створити файл",
+  "titleDatasetNotFound": "Набір даних не знайдено",
+  "titleApiError": "Помилка API",
+  "messageFailedStaleAvailable": "Нижче можна завантажити попередню версію.",
+  "messageUpdatingFile": "Ми оновлюємо файл. Це може зайняти деякий час.",
+  "messageCreatingFile": "Ми створюємо файл. Це може зайняти деякий час.",
+  "messageCachedOutOfDate": "Файл не містить більшості актуальних даних.",
+  "messageCachedUnknownDate": "Файл може не містити більшості актуальних даних.",
+  "messageNotCached": "Файл не існує та його створення займе деякий час."
+}

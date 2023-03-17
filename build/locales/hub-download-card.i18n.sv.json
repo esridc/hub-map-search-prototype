@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Hämta",
+  "buttonOptions": "Hämtningsalternativ",
+  "menuRequest": "Begär en ny fil",
+  "menuDownload": "Hämta tillgänglig fil",
+  "fileCreated": "Fil skapad",
+  "fileSize": "Filstorlek",
+  "bytes": "B",
+  "kb": "kB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "Inget standardvärde"
+}

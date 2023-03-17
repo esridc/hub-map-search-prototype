@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Atsisiųsti",
+  "buttonOptions": "Atsisiuntimo parinktys",
+  "menuRequest": "Prašyti naujo failo",
+  "menuDownload": "Atsisiųsti esamą failą",
+  "fileCreated": "Failas sukurtas",
+  "fileSize": "Failo dydis",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "Netaikoma"
+}

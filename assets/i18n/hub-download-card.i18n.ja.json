@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "ダウンロード",
+  "buttonOptions": "ダウンロード オプション",
+  "menuRequest": "新しいファイルのリクエスト",
+  "menuDownload": "利用可能なファイルのダウンロード",
+  "fileCreated": "ファイルが作成されました",
+  "fileSize": "ファイル サイズ",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "なし"
+}

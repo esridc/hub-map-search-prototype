@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Hämtning färdig",
+  "titleFileGeneration": "Filskapande pågår",
+  "titleFileGenerationFailed": "Filskapande misslyckades",
+  "titleDatasetNotFound": "Datasetet hittades inte",
+  "titleApiError": "API-fel",
+  "messageFailedStaleAvailable": "Du kan hämta den föregående versionen nedan.",
+  "messageUpdatingFile": "Vi uppdaterar filen. Det kan ta ett tag.",
+  "messageCreatingFile": "Vi skapar filen. Det kan ta ett tag.",
+  "messageCachedOutOfDate": "Filen innehåller inte de mest uppdaterade data.",
+  "messageCachedUnknownDate": "Filen kanske inte innehåller de mest uppdaterade data.",
+  "messageNotCached": "Filen finns inte och kommer att ta tid att skapa."
+}

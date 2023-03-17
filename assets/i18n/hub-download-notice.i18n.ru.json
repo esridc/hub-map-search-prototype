@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Загрузка завершена",
+  "titleFileGeneration": "Выполняется создание файла",
+  "titleFileGenerationFailed": "Создание файла не удалось",
+  "titleDatasetNotFound": "Набор данных не найден",
+  "titleApiError": "ОшибкаAPI",
+  "messageFailedStaleAvailable": "Вы можете скачать предыдущую версию ниже.",
+  "messageUpdatingFile": "Идет обновление файла. Это может занять некоторое время.",
+  "messageCreatingFile": "Идет создание файла. Это может занять некоторое время.",
+  "messageCachedOutOfDate": "Файл не содержит самых актуальных данных.",
+  "messageCachedUnknownDate": "Файл может не содержать самые актуальные данные.",
+  "messageNotCached": "Файл не существует, и его создание может занять некоторое время."
+}

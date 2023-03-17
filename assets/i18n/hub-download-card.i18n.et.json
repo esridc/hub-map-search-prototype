@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Allalaadimine",
+  "buttonOptions": "Laadi suvandid alla",
+  "menuRequest": "Taotle uut faili",
+  "menuDownload": "Laadi saadaolev fail alla",
+  "fileCreated": "Fail on loodud",
+  "fileSize": "Faili maht",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "Pole saadaval"
+}

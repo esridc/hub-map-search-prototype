@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Prenos dokončan",
+  "titleFileGeneration": "Ustvarjanje datoteke je v teku",
+  "titleFileGenerationFailed": "Ustvarjanje datoteke ni uspelo",
+  "titleDatasetNotFound": "Sklop podatkov ni najden",
+  "titleApiError": "Napaka API",
+  "messageFailedStaleAvailable": "Prejšnjo različico lahko prenesete spodaj.",
+  "messageUpdatingFile": "Posodabljamo datoteko. To lahko traja nekaj časa.",
+  "messageCreatingFile": "Ustvarjamo datoteko. To lahko traja nekaj časa.",
+  "messageCachedOutOfDate": "Datoteka ne vsebuje posodobljenih podatkov.",
+  "messageCachedUnknownDate": "Lahko, da datoteka ne vsebuje posodobljenih podatkov.",
+  "messageNotCached": "Datoteka ne obstaja, da se ustvari bo potreben čas."
+}

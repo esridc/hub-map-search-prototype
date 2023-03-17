@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Allalaadimine lõpetatud",
+  "titleFileGeneration": "Faili loomine on pooleli",
+  "titleFileGenerationFailed": "Faili loomine nurjus",
+  "titleDatasetNotFound": "Andmestikku ei leitud",
+  "titleApiError": "API viga",
+  "messageFailedStaleAvailable": "Saate allpool alla laadida eelmise versiooni.",
+  "messageUpdatingFile": "Värskendame faili. See võib veidi aega võtta.",
+  "messageCreatingFile": "Loome faili. See võib veidi aega võtta.",
+  "messageCachedOutOfDate": "Fail ei sisalda kõige uuemaid kuupäevaandmeid.",
+  "messageCachedUnknownDate": "Fail ei pruugi sisaldada kõige uuemaid kuupäevaandmeid.",
+  "messageNotCached": "Faili pole ja selle loomine võib aega võtta."
+}

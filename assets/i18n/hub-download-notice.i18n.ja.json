@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "ダウンロードが完了しました",
+  "titleFileGeneration": "ファイルの生成が進行中です",
+  "titleFileGenerationFailed": "ファイルの生成に失敗しました",
+  "titleDatasetNotFound": "データセットが見つかりません",
+  "titleApiError": "API エラー",
+  "messageFailedStaleAvailable": "以前のバージョンを以下でダウンロードできます。",
+  "messageUpdatingFile": "ファイルを更新しています。 この処理にはしばらく時間がかかります。",
+  "messageCreatingFile": "ファイルを作成しています。 この処理にはしばらく時間がかかります。",
+  "messageCachedOutOfDate": "ファイルに最新のデータが含まれていません。",
+  "messageCachedUnknownDate": "ファイルに最新のデータが含まれていない可能性があります。",
+  "messageNotCached": "ファイルが存在しないため、作成に時間がかかります。"
+}

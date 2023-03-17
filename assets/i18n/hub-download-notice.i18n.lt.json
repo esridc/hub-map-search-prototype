@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Atsisiuntimas baigtas",
+  "titleFileGeneration": "Failas generuojamas",
+  "titleFileGenerationFailed": "Failo sugeneruoti nepavyko",
+  "titleDatasetNotFound": "Duomenų rinkinys nerastas",
+  "titleApiError": "API klaida",
+  "messageFailedStaleAvailable": "Ankstesnę versiją galite atsisiųsti žemiau.",
+  "messageUpdatingFile": "Failas yra atnaujinamas. Tai gali šiek tiek užtrukti.",
+  "messageCreatingFile": "Failas yra kuriamas. Tai gali šiek tiek užtrukti.",
+  "messageCachedOutOfDate": "Faile nėra naujausių duomenų.",
+  "messageCachedUnknownDate": "Gali būti, kad faile nėra naujausių duomenų.",
+  "messageNotCached": "Failo nėra ir jo kūrimas gali šiek tiek užtrukti."
+}

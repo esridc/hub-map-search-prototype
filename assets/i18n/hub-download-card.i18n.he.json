@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "הורדה",
+  "buttonOptions": "אפשרויות הורדה",
+  "menuRequest": "בקש קובץ חדש",
+  "menuDownload": "הורד קובץ זמין",
+  "fileCreated": "הקובץ נוצר",
+  "fileSize": "גודל קובץ",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "לא זמין"
+}

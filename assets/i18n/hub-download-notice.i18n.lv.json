@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Lejupielāde pabeigta",
+  "titleFileGeneration": "Notiek faila izveide",
+  "titleFileGenerationFailed": "Faila izveide neizdevās",
+  "titleDatasetNotFound": "Datu kopa nav atrasta",
+  "titleApiError": "API kļūda",
+  "messageFailedStaleAvailable": "Zemāk variet lejupielādēt iepriekšējo versiju.",
+  "messageUpdatingFile": "Mēs atjauninām failu. Tas var aizņemt kādu laiku.",
+  "messageCreatingFile": "Mēs veidojam failu. Tas var aizņemt kādu laiku.",
+  "messageCachedOutOfDate": "Failā nav pašu jaunāko datu.",
+  "messageCachedUnknownDate": "Failā var nebūt pašu jaunāko datu.",
+  "messageNotCached": "Fails nepastāv un būs nepieciešams laiks, lai to izveidotu."
+}

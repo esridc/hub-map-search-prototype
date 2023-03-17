@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "הורדה הושלמה",
+  "titleFileGeneration": "יצירת קובץ מתבצעת",
+  "titleFileGenerationFailed": "יצירת קובץ נכשלה",
+  "titleDatasetNotFound": "ערכת נתונים לא נמצאה",
+  "titleApiError": "שגיאת API",
+  "messageFailedStaleAvailable": "ניתן גרסה קודמת להלן.",
+  "messageUpdatingFile": "אנו מעדכנים את הקובץ. ייתכן שפעולה זו תימשך זמן מה.",
+  "messageCreatingFile": "אנו יוצרים את הקובץ. ייתכן שפעולה זו תימשך זמן מה.",
+  "messageCachedOutOfDate": "הקובץ לא מכיל את נתוני התאריך העדכניים ביותר.",
+  "messageCachedUnknownDate": "ייתכן שהקובץ לא מכיל את נתוני התאריך העדכניים ביותר.",
+  "messageNotCached": "הקובץ לא קיים ויידרש זמן כדי ליצור אותו."
+}

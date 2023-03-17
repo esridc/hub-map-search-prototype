@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Downloaden voltooid",
+  "titleFileGeneration": "Bezig met genereren van bestanden",
+  "titleFileGenerationFailed": "Genereren van bestanden mislukt",
+  "titleDatasetNotFound": "Dataset niet gevonden",
+  "titleApiError": "API-fout",
+  "messageFailedStaleAvailable": "U kunt hieronder een eerdere versie downloaden.",
+  "messageUpdatingFile": "We werken het bestand bij. Dit kan even duren.",
+  "messageCreatingFile": "We maken het bestand aan. Dit kan even duren.",
+  "messageCachedOutOfDate": "Het bestand bevat niet de meest actuele gegevens.",
+  "messageCachedUnknownDate": "Het bestand bevat misschien niet de meest actuele gegevens.",
+  "messageNotCached": "Het bestand bestaat niet en het duurt even voordat het aangemaakt kan worden."
+}

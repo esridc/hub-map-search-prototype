@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Η λήψη ολοκληρώθηκε",
+  "titleFileGeneration": "Δημιουργία αρχείου σε εξέλιξη",
+  "titleFileGenerationFailed": "Η δημιουργία αρχείου απέτυχε",
+  "titleDatasetNotFound": "Το σύνολο δεδομένων δεν βρέθηκε",
+  "titleApiError": "Σφάλμα API",
+  "messageFailedStaleAvailable": "Μπορείτε να πραγματοποιήσετε λήψη προηγούμενης έκδοσης παρακάτω.",
+  "messageUpdatingFile": "Ενημερώνουμε το αρχείο. Ενδέχεται να διαρκέσει λίγη ώρα.",
+  "messageCreatingFile": "Δημιουργούμε το αρχείο. Ενδέχεται να διαρκέσει λίγη ώρα.",
+  "messageCachedOutOfDate": "Το αρχείο δεν περιέχει τα πιο πρόσφατα ενημερωμένα δεδομένα.",
+  "messageCachedUnknownDate": "Το αρχείο ενδέχεται να μην περιέχει τα πιο πρόσφατα ενημερωμένα δεδομένα.",
+  "messageNotCached": "Το αρχείο δεν υπάρχει και η δημιουργία του θα διαρκέσει λίγη ώρα."
+}

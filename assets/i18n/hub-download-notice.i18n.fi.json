@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Lataus on valmis",
+  "titleFileGeneration": "Tiedoston luonti on käynnissä",
+  "titleFileGenerationFailed": "Tiedoston luonti epäonnistui",
+  "titleDatasetNotFound": "Aineistoryhmää ei löydy",
+  "titleApiError": "API-virhe",
+  "messageFailedStaleAvailable": "Voit ladata edellisen version alta.",
+  "messageUpdatingFile": "Tiedostoa päivitetään. Tämä voi kestää hetken.",
+  "messageCreatingFile": "Tiedostoa luodaan. Tämä voi kestää hetken.",
+  "messageCachedOutOfDate": "Tiedosto ei sisällä uusimpia tietoja.",
+  "messageCachedUnknownDate": "Tiedosto ei ehkä sisällä uusimpia tietoja.",
+  "messageNotCached": "Tiedostoa ei ole, ja sen luonti kestää hetken."
+}

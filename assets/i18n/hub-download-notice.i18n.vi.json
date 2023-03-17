@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Tải xong",
+  "titleFileGeneration": "Đang trong quá trình tạo tệp",
+  "titleFileGenerationFailed": "Tạo tệp thất bại",
+  "titleDatasetNotFound": "Không tìm thấy bộ dữ liệu",
+  "titleApiError": "Lỗi API",
+  "messageFailedStaleAvailable": "Bạn có thể tải xuống phiên bản trước dưới đây.",
+  "messageUpdatingFile": "Chúng tôi đang cập nhật tệp. Việc này có thể mất vài phút.",
+  "messageCreatingFile": "Chúng tôi đang tạo tệp. Việc này có thể mất vài phút.",
+  "messageCachedOutOfDate": "Tệp không chứa dữ liệu cập nhật mới nhất.",
+  "messageCachedUnknownDate": "Tệp có thể không chứa dữ liệu cập nhật mới nhất.",
+  "messageNotCached": "Tệp không tồn tại và sẽ cần thời gian để tạo."
+}

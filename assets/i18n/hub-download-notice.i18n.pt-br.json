@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Download completo",
+  "titleFileGeneration": "Geração de arquivo em andamento",
+  "titleFileGenerationFailed": "Falha na geração do arquivo",
+  "titleDatasetNotFound": "Conjunto de dados não encontrado",
+  "titleApiError": "Erro de API",
+  "messageFailedStaleAvailable": "Você pode baixar uma versão anterior abaixo.",
+  "messageUpdatingFile": "Estamos atualizando o arquivo. Isto pode demorar um pouco.",
+  "messageCreatingFile": "Estamos criando o arquivo. Isto pode demorar um pouco.",
+  "messageCachedOutOfDate": "O arquivo não contém os dados mais atualizados.",
+  "messageCachedUnknownDate": "O arquivo pode não conter os dados mais atualizados.",
+  "messageNotCached": "O arquivo não existe e demorará para ser criado."
+}

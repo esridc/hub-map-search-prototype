@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Lataa",
+  "buttonOptions": "Latausasetukset",
+  "menuRequest": "Pyydä uutta tiedostoa",
+  "menuDownload": "Lataa saatavilla oleva tiedosto",
+  "fileCreated": "Tiedosto on luotu",
+  "fileSize": "Tiedoston koko",
+  "bytes": "B",
+  "kb": "kt",
+  "mb": "Mt",
+  "gb": "Gt",
+  "tb": "Tt",
+  "n/a": "Ei mitään"
+}

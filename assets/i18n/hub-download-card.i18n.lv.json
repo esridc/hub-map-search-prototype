@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Lejupielāde",
+  "buttonOptions": "Lejupielādes opcijas",
+  "menuRequest": "Pieprasīt jaunu failu",
+  "menuDownload": "Lejupielādēt pieejamo failu",
+  "fileCreated": "Fails izveidots",
+  "fileSize": "Faila lielums",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "N/P"
+}

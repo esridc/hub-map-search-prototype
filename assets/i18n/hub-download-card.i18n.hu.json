@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Letöltés",
+  "buttonOptions": "Letöltési beállítások",
+  "menuRequest": "Új fájl kérése",
+  "menuDownload": "Rendelkezésre álló fájl letöltése",
+  "fileCreated": "A fájl létrehozva",
+  "fileSize": "Fájlméret",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "n. a."
+}

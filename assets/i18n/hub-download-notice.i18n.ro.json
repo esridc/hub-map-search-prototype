@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Descărcare completă",
+  "titleFileGeneration": "Generarea fișierelor este în curs de desfășurare",
+  "titleFileGenerationFailed": "Generarea fișierelor a eșuat",
+  "titleDatasetNotFound": "Setul de date nu a fost găsit",
+  "titleApiError": "Eroare API",
+  "messageFailedStaleAvailable": "Puteți descărca o versiune anterioară mai jos.",
+  "messageUpdatingFile": "Suntem în curs de actualizare a fișierului. Poate dura câteva momente.",
+  "messageCreatingFile": "Suntem în curs de creare a fișierului. Poate dura câteva momente.",
+  "messageCachedOutOfDate": "Fișierul nu conține datele cele mai actualizate.",
+  "messageCachedUnknownDate": "Este posibil ca fișierul să nu conțină datele cele mai actualizate.",
+  "messageNotCached": "Fișierul nu există și va dura câtva timp până va fi creat."
+}
